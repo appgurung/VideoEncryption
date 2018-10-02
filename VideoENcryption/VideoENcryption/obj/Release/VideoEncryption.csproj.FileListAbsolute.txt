@@ -1,0 +1,12 @@
+C:\SwiftBox\Git\GithubRepo\VideoENcryption\VideoENcryption\bin\Release\VideoEncryption.exe.config
+C:\SwiftBox\Git\GithubRepo\VideoENcryption\VideoENcryption\bin\Release\VideoEncryption.exe
+C:\SwiftBox\Git\GithubRepo\VideoENcryption\VideoENcryption\bin\Release\VideoEncryption.pdb
+C:\SwiftBox\Git\GithubRepo\VideoENcryption\VideoENcryption\bin\Release\KellermanSoftware.NET-Encryption-Library.dll
+C:\SwiftBox\Git\GithubRepo\VideoENcryption\VideoENcryption\bin\Release\KellermanSoftware.NET-Encryption-Library.xml
+C:\SwiftBox\Git\GithubRepo\VideoENcryption\VideoENcryption\obj\Release\VideoENcryption.Form1.resources
+C:\SwiftBox\Git\GithubRepo\VideoENcryption\VideoENcryption\obj\Release\VideoEncryption.Properties.Resources.resources
+C:\SwiftBox\Git\GithubRepo\VideoENcryption\VideoENcryption\obj\Release\VideoEncryption.csproj.GenerateResource.cache
+C:\SwiftBox\Git\GithubRepo\VideoENcryption\VideoENcryption\obj\Release\VideoEncryption.csproj.CoreCompileInputs.cache
+C:\SwiftBox\Git\GithubRepo\VideoENcryption\VideoENcryption\obj\Release\VideoEncryption.csproj.CopyComplete
+C:\SwiftBox\Git\GithubRepo\VideoENcryption\VideoENcryption\obj\Release\VideoEncryption.exe
+C:\SwiftBox\Git\GithubRepo\VideoENcryption\VideoENcryption\obj\Release\VideoEncryption.pdb
